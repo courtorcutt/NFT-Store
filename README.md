@@ -1,5 +1,7 @@
 # NFT-Store
 
+Artwork being sold on Shopify Polaris Site:
+
 ![NFTimage0](https://user-images.githubusercontent.com/72311187/150202477-3648a297-12dc-49be-8b70-4e51254ab083.png)
 ![NFTimage1](https://user-images.githubusercontent.com/72311187/150202480-9839decf-5a90-4715-950c-b5913b7a5247.png)
 ![NFTimage2](https://user-images.githubusercontent.com/72311187/150202481-ae1e0d20-18e7-4232-80be-8583109ef32a.png)
